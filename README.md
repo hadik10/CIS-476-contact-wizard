@@ -7,3 +7,5 @@ Create an application consisting of the following pages:
 * You must use the PHP Session object to preserve data.
 
 Use Netbeans to develop this PHP application.
+
+# This was another project of class CIS-476.
